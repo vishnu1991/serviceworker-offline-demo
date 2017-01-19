@@ -3,6 +3,7 @@ importScripts('js/cache-polyfill.js');
 var CACHE_VERSION = 'app-v1';
 var CACHE_FILES = [
     '/',
+    'page2.html',
     'images/background.jpeg',
     'js/app.js',
     'css/styles.css',
